@@ -1,0 +1,5 @@
+{
+  "name": "Dvir Magen",
+  "appName": "app",
+  "imageName": "dvirmagen/docker_task:latest"
+}
